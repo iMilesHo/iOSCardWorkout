@@ -14,7 +14,7 @@ This is a simple iOS app that allows users to play a card workout game. The app 
 ### Using Storyboard
 
 <p float="left" align="center">
-  <img src="./ProjectDescriptionResources/0.png" width="750" />
+  <img src="./ProjectDescriptionResources/5.png" width="750" />
 </p>
 
 ### Using Programmatic UI
