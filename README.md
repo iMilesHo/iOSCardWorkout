@@ -7,26 +7,26 @@ This is a simple iOS app that allows users to play a card workout game. The app 
 ## Screenshots
 
 <p float="left" align="center">
-  <img src="./ProjectDescriptionResources/1.PNG" width="250" />
-  <img src="./ProjectDescriptionResources/2.PNG" width="250" />
+  <img src="./ProjectDescriptionResources/1.png" width="250" />
+  <img src="./ProjectDescriptionResources/2.png" width="250" />
 </p>
 
 ### Using Storyboard
 
 <p float="left" align="center">
-  <img src="./ProjectDescriptionResources/0.PNG" width="750" />
+  <img src="./ProjectDescriptionResources/0.png" width="750" />
 </p>
 
 ### Using Programmatic UI
 
 <p float="left" align="center">
-  <img src="./ProjectDescriptionResources/4.PNG" width="750" />
+  <img src="./ProjectDescriptionResources/4.png" width="750" />
 </p>
 
 ### Uing new Button from iOS 15 (configuration of the button)
 
 <p float="left" align="center">
-  <img src="./ProjectDescriptionResources/3.PNG" width="250" />
+  <img src="./ProjectDescriptionResources/3.png" width="250" />
 </p>
 
 ## Acknowledgements
